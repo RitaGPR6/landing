@@ -1,0 +1,25 @@
+.footer {
+  background-color: rgb(86, 85, 85);
+  height: 150px;
+  text-align: center;
+  padding: 60px;
+  color: rgb(152, 152, 152);
+}
+
+.socials {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  font-size: 30px;
+  padding-top: 35px;
+
+}
+
+.footer p {
+  padding-top: 10px;
+}
+
+.footer a{
+  text-decoration: none;
+  color: rgb(152, 152, 152);
+}
